@@ -9,4 +9,7 @@ The game is played by swiping candies, in any direction (so long as it is not bl
 Javascripts, HTML and CSS is used in making this game . For further internal implementation, please refer to the attached code.
 
 
-Some images of the application-
+ Screenshot of the application-
+ [
+![Screenshot (243)](https://user-images.githubusercontent.com/51224796/91631234-b750b300-e9f5-11ea-814a-437d18356147.png)
+](url)

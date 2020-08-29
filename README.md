@@ -10,6 +10,7 @@ Javascripts, HTML and CSS is used in making this game . For further internal imp
 
 
  Screenshot of the application-
+ 
  [
 ![Screenshot (243)](https://user-images.githubusercontent.com/51224796/91631234-b750b300-e9f5-11ea-814a-437d18356147.png)
 ](url)
